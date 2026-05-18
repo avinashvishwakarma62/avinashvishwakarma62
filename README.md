@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Avinash Vishwakarma
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate CSE Student || Aspiring Software Developer || Tech Ethusiast from India**
 
 Email Me 👉 ✉️ **avinash@gmail.com** . 😊😊
 
