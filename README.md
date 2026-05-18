@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **avinash@gmail.com** . 😊😊
 - 👯 **I’m looking to collaborate on:** Open Source & Friendly Projects
 - 🤔 **I’m looking for help with:** Advanced Development & Real-world Projects
 - 💬 **Ask me about:** Java, Github, BAsic Web Development, Student Tecj Journey
-- 📫 **How to reach me:** avinashvshw@gmaily
+- 📫 **How to reach me:** avinashvshw@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Learning Tech and building cool things from scratch..
 
